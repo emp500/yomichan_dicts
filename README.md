@@ -1,1 +1,1 @@
-# yomichan_dicts
+# Yomichan Dictionaries for Japanese
